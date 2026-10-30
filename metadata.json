@@ -1,0 +1,8 @@
+{
+  "name": "Mpangopesa",
+  "description": "Lightweight personal budget app with offline Room cache and Google Sheets cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
